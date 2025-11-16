@@ -106,7 +106,7 @@ Super admin features can cause unrepairable damage. We highly recommend adding a
 
 :::
 
-With is `ClientApplication`, you can create a `Project` resource and invite the a new user as a project admin.
+With a `ClientApplication`, you can create a `Project` resource and invite a new user as a project admin.
 
 #### Create a New Project
 
